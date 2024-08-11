@@ -1,0 +1,7 @@
+numpy -> linear algebra library
+pandas -> library to load data from csv file and use it as a dataframe to perform analysis
+sklearn -> library to import models, classifiers and metrics for model evaluation
+matplotlib -> library for plotting
+seaborn -> another library for better visualizations
+ipywidgets -> library for creating interactive python widgets
+warnings -> to ignore unnecessary warnings to show up in output
