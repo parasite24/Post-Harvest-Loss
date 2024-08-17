@@ -3,4 +3,4 @@ The output is already present in the .ipynb file. If you still wish to run it on
 
 To run:
 
-- Open the file "post_harvest_loss.ipynb" inside code folder in your jupyter notebook and run all the cells by Shift + Enter, from top to bottom.
+- Open the file "post_harvest_loss.ipynb" in your jupyter notebook and run all the cells by Shift + Enter, from top to bottom.
